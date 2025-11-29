@@ -15,7 +15,7 @@ Oddiy va zamonaviy vazifalar ro'yxati ilovasi.
 
 1. Proyektni klonlang:
 ```bash
-git clone https://github.com/username/todolist.git
+git clone https://github.com/agmm7834/ToDoList.git
 ```
 
 2. Visual Studio yoki Rider da oching
