@@ -36,5 +36,3 @@ git clone https://github.com/agmm7834/ToDoList.git
 - **Tahrirlash**: Vazifani tanlang va "Tahrirlash" bosing
 - **O'chirish**: Vazifani tanlang va "O'chirish" bosing
 - **Tezkor belgilash**: Vazifani ikki marta bosing
-
-Sizning ismingiz
